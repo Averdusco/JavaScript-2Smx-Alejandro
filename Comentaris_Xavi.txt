@@ -18,8 +18,6 @@ un número fix amb la variable. És la manera ràpida, però volem la manera lla
 a que practiquis més, i n'aprenguis més. REPETEIX-LO
 ### Act05
 * canvia el nom dels arxius. Totes les lletres han d'estar en minúscules
-* 
-
 
 ### Pendent del 20200328
 * Et falta arreglar els comentaris del darrer dia
