@@ -21,3 +21,7 @@ a que practiquis més, i n'aprenguis més. REPETEIX-LO
 
 ### Pendent del 20200328
 * Et falta arreglar els comentaris del darrer dia
+
+##20200427
+
+OK les activitats 5 i 6
